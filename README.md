@@ -18,7 +18,7 @@
 
 # 关于
 
-感谢[hexo-theme-one-paper](https://github.com/ liruiying728/hexo-theme-one-paper)对本主题的启发。
+感谢 [hexo-theme-one-paper](https://github.com/liruiying728/hexo-theme-one-paper) 对本主题的启发。
 
 # 展示
 
@@ -42,7 +42,7 @@
 
 # 安装
 
-1. 在[Release](github.com/kankezhiyan/word-card-theme/releases)下载.zip文件
+1. 在 [Release](github.com/kankezhiyan/word-card-theme/releases) 下载.zip文件
 2. 登录 WordPress 后台，在 WordPress 后台 "主题" 页面上传并安装
 3. 选择主题，启用 Word Card 主题
 4. 配置主题设置，根据需要自定义主题
